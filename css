@@ -1,0 +1,9 @@
+.image {
+align-items: center;
+}
+.imagel {
+    float: left;
+}
+.imager {
+    float: right;
+}
